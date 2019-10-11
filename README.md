@@ -4,3 +4,6 @@
 
 1. Add.go  数字相加的矩阵实现
 2. MatrixMul.go 矩阵相乘
+
+[Understanding Tensorflow using Go](https://pgaleone.eu/tensorflow/go/2017/05/29/understanding-tensorflow-using-go/)
+
