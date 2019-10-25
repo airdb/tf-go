@@ -7,3 +7,4 @@
 
 [Understanding Tensorflow using Go](https://pgaleone.eu/tensorflow/go/2017/05/29/understanding-tensorflow-using-go/)
 
+[Understanding Tensorflow using Go - zh](https://log.zvz.im/2018/07/15/go-tensorflow/)
